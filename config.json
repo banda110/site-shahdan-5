@@ -105,7 +105,7 @@
   "sections": {
     "hero": {
       "id": "hero",
-      "enabled": false,
+      "enabled": true,
       "title": "Every Memory Tells A Story",
       "subtitle": "A Story Worth Remembering",
       "description": "Some moments stay with us forever.",
@@ -116,7 +116,7 @@
     },
     "floatingMemories": {
       "id": "floating-memories",
-      "enabled": false,
+      "enabled": true,
       "title": "Floating Moments",
       "subtitle": "Memories",
       "description": "A collection of beautiful memories suspended in time.",
@@ -138,7 +138,7 @@
     },
     "stackCards": {
       "id": "stack-cards",
-      "enabled": false,
+      "enabled": true,
       "title": "Stacked Memories",
       "subtitle": "Story",
       "description": "Every memory reveals the next chapter.",
@@ -347,7 +347,7 @@
     },
     "loveNotes": {
       "id": "love-notes",
-      "enabled": false,
+      "enabled": true,
       "title": "Floating Love Notes",
       "subtitle": "Notes",
       "description": "Little messages of love floating by.",
@@ -358,7 +358,7 @@
     },
     "heartbeat": {
       "id": "heartbeat",
-      "enabled": false,
+      "enabled": true,
       "title": "Heartbeat Showcase",
       "subtitle": "Heartbeat",
       "description": "The rhythm of our love.",
@@ -369,7 +369,7 @@
     },
     "finalEnding": {
       "id": "final-ending",
-      "enabled": false,
+      "enabled": true,
       "title": "Final Cinematic Ending",
       "subtitle": "Ending",
       "description": "A grand finale to our story.",
